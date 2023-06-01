@@ -1,0 +1,3 @@
+[submodule "os"]
+	path = os
+	url = https://github.com/TrampolineRTOS/trampoline.git
